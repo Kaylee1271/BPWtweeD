@@ -23,4 +23,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TurTorialLevel.unity
     guid: c6ac62d8399319545955f1cc69540115
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 8d6ee35aa68b3724caaefe95dcbbfe9d
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: cbee30994af1e8441b3a57c71b0da9a3
   m_configObjects: {}
